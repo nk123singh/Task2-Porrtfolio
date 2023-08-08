@@ -1,2 +1,6 @@
 # Task2-Porrtfolio
-This is task2 of the Bharat intern to create a portfolio website describing about me &amp; my aconplishment  using HTML &amp; CSS 
+👋 Hi, I’m Nikhil Kumar Singh
+👀 I’m interested in web development technology
+🌱 I’m currently learning DSA and web tech
+💞️ I’m looking for internship ...
+📫 I had created this repo for temperature converter while doing my virtual internship at Bharat intern. 
